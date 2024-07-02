@@ -15,14 +15,14 @@ export default {
           60: '#152947',
           70: '#274662'
         },
+      },
+      width: {
+        '35': '7rem'
+      },
+      height: {
+        '15': '4rem'
       }
     },
-    width: {
-      '35': '7rem',  // Custom width of 32rem
-    },
-    height: {
-      '15': '4rem'
-    }
   },
   plugins: [],
 }
